@@ -1,1 +1,1 @@
-# it_landing_page
+It is genarel landing page.
