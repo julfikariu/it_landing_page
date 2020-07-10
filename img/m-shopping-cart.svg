@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>flaticon1566453269-svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C1E3FF" offset="0%"></stop>
+            <stop stop-color="#6F88FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="10.7031677%" x2="36.7385925%" y2="575.891453%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#00CBF8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page-Design-for-Dokan-V2-Update" transform="translate(-478.000000, -1244.000000)" fill-rule="nonzero">
+            <g id="Group-65" transform="translate(389.000000, 1198.000000)">
+                <g id="Group-61" transform="translate(47.000000, 46.000000)">
+                    <g id="Group-60">
+                        <g id="flaticon1566453269-svg" transform="translate(42.000000, 0.000000)">
+                            <circle id="Oval" fill="url(#linearGradient-1)" cx="45" cy="45" r="45"></circle>
+                            <path d="M37.8,54.8 C35.82,54.8 34.2,56.42 34.2,58.4 C34.2,60.38 35.82,62 37.8,62 C39.78,62 41.4,60.38 41.4,58.4 C41.4,56.42 39.78,54.8 37.8,54.8 Z M27,26 L27,29.6 L30.6,29.6 L37.08,43.28 L34.56,47.6 C34.38,48.14 34.2,48.86 34.2,49.4 C34.2,51.38 35.82,53 37.8,53 L59.4,53 L59.4,49.4 L38.52,49.4 C38.34,49.4 38.16,49.22 38.16,49.04 L38.16,48.8599294 L39.78,45.7999294 L53.1,45.7999294 C54.54,45.7999294 55.62,45.0799294 56.16,43.9999294 L62.64,32.3 C63,31.94 63,31.76 63,31.4 C63,30.32 62.28,29.6 61.2,29.6 L34.56,29.6 L32.94,26 L27,26 Z M55.8,54.8 C53.82,54.8 52.2,56.42 52.2,58.4 C52.2,60.38 53.82,62 55.8,62 C57.78,62 59.4,60.38 59.4,58.4 C59.4,56.42 57.78,54.8 55.8,54.8 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
